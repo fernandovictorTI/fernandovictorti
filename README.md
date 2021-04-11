@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Fernando! :D
 
-<!--
-**fernandovictorTI/fernandovictorti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandovictorti)](https://github.com/fernandovictorti)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-victor-664899a0/)](https://www.linkedin.com/in/fernando-victor-664899a0/)
 
-Here are some ideas to get you started:
+Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando com Backend e Frontend na [@Ewave](https://www.ewave.com.br/).
+- 🌱 No momento estou estudando Python e Machine Learning para projetos particulares.
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=fernandovictorti&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
