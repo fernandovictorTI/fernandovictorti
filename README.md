@@ -5,7 +5,7 @@
 
 Sobre
 
-- 🔭 Atualmente estou trabalhando com Backend e Frontend na [@Ewave](https://www.ewave.com.br/).
+- 🔭 Atualmente estou trabalhando com Backend(.Net) e Frontend(Angular) na [@Ewave](https://www.ewave.com.br/).
 - 🌱 No momento estou estudando Python e Machine Learning para projetos particulares.
 
 <p align="center">
