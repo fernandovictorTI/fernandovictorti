@@ -12,10 +12,12 @@ Sobre
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<ul>
+  <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="JavaScript Logo" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="JavaScript Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<ul>
 
 ---
 
