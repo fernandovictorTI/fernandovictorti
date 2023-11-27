@@ -7,7 +7,7 @@
 
 Sobre
 
-- 🔭 Atualmente estou trabalhando com Backend(.Net) e Frontend(Angular) na [@Ewave](https://www.ewave.com.br/).
+- 🔭 Atualmente estou trabalhando com Backend Software Engineer .NET na [Strada](https://strada.log.br/).
 - 🌱 No momento estou estudando Python e Machine Learning para projetos particulares.
 
 ---
